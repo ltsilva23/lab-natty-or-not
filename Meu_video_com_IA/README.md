@@ -15,7 +15,7 @@ O processo de criação começou com o uso do ChatGPT para escrever e revisar o 
 ## 🚀 Resultados
 Os resultados deste projeto incluem um vídeo informativo e envolvente que capta as emoções humanas em relação à IA, destacando tanto os benefícios quanto as preocupações associadas a essa tecnologia emergente.
 
-Assista ao vídeo completo [aqui](link-do-video).
+Assista ao vídeo completo [aqui](video.mp4).
 
 ## 💭 Reflexão (Opcional)
 A criação deste vídeo foi um desafio intrigante, exigindo um equilíbrio entre a autenticidade e a inovação proporcionada pela IA. Foi uma experiência reveladora ver como a IA pode ser usada para criar conteúdo 'natty', mantendo a essência humana enquanto explora as possibilidades tecnológicas.
