@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎥 Vídeo: Impacto Emocional da Inteligência Artificial: Desafios e Oportunidades para os Humanos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 1 minuto e 12 segundos explora como a inteligência artificial (IA) está afetando as emoções humanas, destacando os desafios e oportunidades que ela traz para a vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- **ChatGPT**: Utilizado para roteirização e revisão do conteúdo. [ChatGPT](https://chat.openai.com/)
+- **VEED**: Empregado para sintetização de voz, criação de um avatar virtual e adição de legendas. [VEED](https://www.veed.io/)
+- **CAPCUT**: Ferramenta de edição de vídeo usada para montagem e aprimoramento visual. [CAPCUT](https://www.capcut.com/pt-br/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação começou com o uso do ChatGPT para escrever e revisar o roteiro do vídeo, garantindo clareza e precisão na mensagem. Em seguida, utilizei o VEED para criar um avatar virtual, sintetizar a voz e adicionar legendas ao vídeo, proporcionando uma experiência mais acessível e envolvente. A edição final foi realizada no CAPCUT, proporcionando um acabamento profissional e fluído.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados deste projeto incluem um vídeo informativo e envolvente que capta as emoções humanas em relação à IA, destacando tanto os benefícios quanto as preocupações associadas a essa tecnologia emergente.
+
+
+Assista ao vídeo completo [aqui](video.mp4).
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A criação deste vídeo foi um desafio intrigante, exigindo um equilíbrio entre a autenticidade e a inovação proporcionada pela IA. Foi uma experiência reveladora ver como a IA pode ser usada para criar conteúdo 'natty', mantendo a essência humana enquanto explora as possibilidades tecnológicas.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
