@@ -17,7 +17,7 @@ Os resultados deste projeto incluem um vídeo informativo e envolvente que capta
 
 [Assista ao vídeo](https://youtu.be/Tn-0p7A5MEo?feature=shared)
 
-[Baixar vídeo](video.mp4)
+[Baixar vídeo](Meu_video_com_IA/video.mp4)
 
 
 ## 💭 Reflexão (Opcional)
